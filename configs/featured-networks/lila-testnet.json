@@ -3,6 +3,7 @@
     "title": "LiquidLayer Testnet",
     "url": "http://testnet-scan.liquidlayer.network/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/LiquidLayerOff/frontend-config/master/configs/network-icons/lila.svg"
+    "icon": "https://raw.githubusercontent.com/LiquidLayerOff/frontend-config/master/configs/network-icons/lila.svg",
+    "invertIconInDarkMode": true
 }
 ]
